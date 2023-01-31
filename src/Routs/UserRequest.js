@@ -39,7 +39,7 @@ function UserRequest() {
             <div className=' sticky-top bg-light'>
                 <div className='navbar container'>
                     <img src='https://images.businessnewsdaily.com/app/uploads/2022/08/01033318/freshworkscrm_logo.jpg' style={{ width: "50px", borderRadius: "5px" }}></img>
-                    <h5 style={{ color: "#7742e6" }}>fluentCRM</h5>
+                    <h5 style={{ color: "red" }}>Freshworks CRM</h5>
                     <div>
                         <ul className='navbar nav-list'>
                             <li className='me-5'>{params.name}</li>
